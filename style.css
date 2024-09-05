@@ -1,0 +1,27 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+
+}
+
+
+#about img {
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+footer i {
+    font-size: 1.5rem;
+    
+}
+
+footer a:hover {
+    color: #ffc107;
+}
+
